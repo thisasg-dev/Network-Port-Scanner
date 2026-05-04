@@ -1,0 +1,9 @@
+# Network Port Scanner - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required!
+
+# Python 3.7+
+
+# Optional (for enhanced features in the future):
+# requests==2.28.1
+# colorama==0.4.6
